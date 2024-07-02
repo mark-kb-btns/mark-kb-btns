@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mark-kb-btns
+- 👋 Hi, I’m @mark-kb-btns, a computer science student
 - 👀 I’m interested in Embedded Systems and Electronics
 - 🌱 I’m currently learning C Language and Basic Electronics
-- 📫 How to reach me: gmail: mamalatraca@nemsu.edu.ph
+- 📫 How to reach me (email): mamalatraca@nemsu.edu.ph
 - ⚡ Fun fact: HUMSS student turned STEM enthusiast
 
 <!---
